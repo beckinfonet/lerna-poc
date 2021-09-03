@@ -1,7 +1,10 @@
 {
-    "name": "sample-generator-sb",
+    "name": "sample-generator-sb-poc",
     "version": "3.0.1",
     "main": "lib/index.js",
     "license": "MIT",
-    "gitHead": "d56b3f27e6ce386fc4acb6bd4429016893ed2662"
+    "gitHead": "d56b3f27e6ce386fc4acb6bd4429016893ed2662",
+    "scripts": {
+        "deploy": "npm publish"
+    }
 }

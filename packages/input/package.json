@@ -1,8 +1,11 @@
 {
-    "name": "input-sb",
+    "name": "input-sb-poc",
     "version": "1.1.0",
     "main": "lib/index.js",
     "module": "src/index.js",
+    "scripts": {
+        "deploy": "npm publish"
+    },
     "dependencies": {
         "prop-types": "15.7.2",
         "react": "16.13.1",

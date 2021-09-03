@@ -1,6 +1,9 @@
 {
-    "name": "axios-util-tpt",
+    "name": "axios-util-tpt-poc",
     "version": "1.1.1",
     "main": "lib/index.js",
-    "license": "MIT"
+    "license": "MIT",
+    "scripts": {
+        "deploy": "npm publish"
+    }
 }
